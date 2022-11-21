@@ -3,7 +3,7 @@ import cv2
 import numpy as np
 
 #Lables to provide to maximum value from predicted outcome
-labels_dict={0:'Aadhar Card',1:'Pan Card'}
+labels_dict={0:'Input Image is Aadhar Card',1:'Input Image is Pan Card'}
 
 #load our trained model
 model = load_model('Card_Detector.model')
