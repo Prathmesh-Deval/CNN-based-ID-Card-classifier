@@ -36,5 +36,8 @@ Able to achieve accuracy of 98% after training our model
 
 2)
 ![image](https://user-images.githubusercontent.com/70071334/203001799-968e40fe-f822-4785-aedd-533917074394.png)
+ 
+# Thanks !
+
 
 
