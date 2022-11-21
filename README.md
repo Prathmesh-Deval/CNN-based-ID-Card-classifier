@@ -5,7 +5,7 @@ Not able to upload entire dataset here due to privacy issue, But you can collect
 data augmentation to create enough dataset from which we can train our module.
 
 
-# import below necessary modules-
+# install below necessary modules-
 
 pip install
 numpy,
