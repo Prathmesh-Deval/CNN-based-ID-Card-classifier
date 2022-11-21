@@ -30,4 +30,11 @@ Able to achieve accuracy of 98% after training our model
 
 ![WhatsApp Image 2022-11-21 at 1 32 51 PM](https://user-images.githubusercontent.com/70071334/202996635-4d116510-2d50-49af-9468-b39457305895.jpeg)
 
- 
+# output Predictions -
+1)
+![WhatsApp Image 2022-11-21 at 1 55 21 PM](https://user-images.githubusercontent.com/70071334/203001188-649cda18-7503-4ade-84b5-e0d4c3e92e9e.jpeg)
+
+2)
+![image](https://user-images.githubusercontent.com/70071334/203001799-968e40fe-f822-4785-aedd-533917074394.png)
+
+
